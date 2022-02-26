@@ -1,6 +1,6 @@
 # swsp-wordpress-plugin
 
-This WordPress Plugin allows you to block all visitors from Russia and display a custom message to turn against Putin to stop war instead.
+This WordPress Plugin allows you to block all visitors from Russia and display a custom message to turn against Putin and to stop war.
 
 We were very much shocked by the war of Russia against Ukraine and how slowly our governments agreed on sanctions.
 
