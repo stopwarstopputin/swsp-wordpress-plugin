@@ -7,19 +7,15 @@ A WordPress Plugin allowing you to block all visitors from Russia and display a 
 
 ## Why did we release a Stop War! Stop Putin! WordPress Plugin?
 
-Like a lot op people in the world, we were very much shocked when Russia started the war against Ukraine.  
+Like a lot of people, we were very much shocked when Russia started the war against Ukraine.  
 
-It was also depressing to see how slow western governments were acting to resolve the conflict and agree on sanctions and we felt that there was little we could do until we saw the people in Russia standing up in the streets to protest.
-
-First there were few protestors, than the numbers increased as Russians realized more and more that Wladmir Putin has become a war criminal ruining the country. 
+It was depressing to see how slowly western governments were acting to resolve the conflict and how long it took to agree on sanctions. We first felt that there was little we could do until we saw the people in Russia standing up in the streets to protest. First there were few protestors, than the numbers increased as Russians realized more and more that Putin has become a war criminal ruining the country. 
 
 We now believe that the internal pressure from Russians on Putin and the Russian government is the most promising way to end war.
 
-This can only happen when more and more Russians feels sanctions in everyday life. 
+This can only happen when more and more Russians feel sanctions in everyday life and start to stand up. 
 
 That's why we created the Stop War! Stop Putin! WordPress Plugin which allows everyone who runs a WordPress blog to impose sanctions on Russia by blocking Visitors from Russian IP addresses from their content and fuel the protests.
-
-The aim of this WordPress Plugin is to give you the power to impose your very own sanctions against Russia and spread your statement to stop war and stop Putin.
 
 
 ## What does the Stop War! Stop Putin! WordPress Plugin do?
