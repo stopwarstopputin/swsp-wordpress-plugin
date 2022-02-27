@@ -13,7 +13,7 @@ It was also depressing to see how slow western governments were acting to resolv
 
 First there were few protestors, than the numbers increased as Russians realized more and more that Wladmir Putin has become a war criminal ruining the country. 
 
-We bnow elieve that the internal pressure from Russians on Putin and the Russian government is the most promising way to end war.
+We now believe that the internal pressure from Russians on Putin and the Russian government is the most promising way to end war.
 
 This can only happen when more and more Russians feels sanctions in everyday life. 
 
