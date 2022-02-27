@@ -4,6 +4,7 @@
 
 A WordPress Plugin allowing you to block all visitors from Russia and display a custom message to stand up against Putin and to stop war.
 
+
 ## Why did we release a Stop War! Stop Putin! WordPress Plugin?
 
 Like a lot op people in the world, we were very much shocked when Russia started the war against Ukraine.  
@@ -20,23 +21,26 @@ That's why we created the Stop War! Stop Putin! WordPress Plugin which allows ev
 
 The aim of this WordPress Plugin is to give you the power to impose your very own sanctions against Russia and spread your statement to stop war and stop Putin.
 
+
 ## What does the Stop War! Stop Putin! WordPress Plugin do?
 
 When you have installed and activated the Stop War! Stop Putin! WordPress Plugin on your WordPress blog, it will allow you to block all visitors coming from IP Addresses associated with the Russian Federation instead of showing your website's regular content. 
 
 You can choose in the settings if you want your WordPress website to display a 403 error, redirect to another URL or show a specific, customizable WordPress page to explain why you sanctioned the access and to encourage your Russian visitors to take actions.  
 
+
 ## Important Notes
 
 Please be aware of the following things before installing the Stop War! Stop Putin! WordPress Plugin:
 
 * The Plugin will run 100% indepently on your Webserver (no 'phoning home', no API connections, no external data collection).
-* The Plugin's blocked IP Ranges for Russia are stored locally on your webserver (there will be updates for this Plugin when IP ranges change).
+* The Plugin's blocked IP Ranges are limited to Russia aand re stored locally on your webserver (there will be updates for this Plugin when IP ranges change).
 * The Plugin will (obviously) track IP addresses and needs to store blocked IP addresses locally on your webserver (relevant for GDPR compliance in some countries). 
 * The Plugin will not work with most WordPress Caching Plugins (e.g. W3 Total Cache). For the Plugin to work you have to deactivate caching Plugins. 
 * The Plugin will not affect your SEO Results since it does not block Google Bots. 
 
-# Credits / Attribution
+
+## Credits / Attribution
 
 The Stop War! Stop Putin! WordPress Plugin was released on February 27th, 2022, just 3 days after Russia invading the Ukraine. 
 
@@ -45,6 +49,7 @@ It is a simplified fork built on the basis of the <a href="https://de.wordpress.
 This site or product includes IP2Location LITE data available from <a href="https://lite.ip2location.com">https://lite.ip2location.com</a>.
 
 The Stop War! Stop Putin! WordPress is in not authorized, associated with or endorsed by Hexasoft Development Sdn. Bhd.  
+
 
 ## License
 
@@ -59,6 +64,7 @@ The Stop War! Stop Putin! WordPress Plugin is licensed under the GPL v2 or later
 A copy of the license is included in the root of the Plugin’s directory. The file is named `LICENSE`.
 
 The included IP2Location LITE data is Copyright (c) 2001-2018 Hexasoft Development Sdn. Bhd. and made available under the CC-BY-SA-4.0 License and redistributed with the appropriate acknowledgemt (see Credits / Attribution).
+
 
 ## Contributions
 
