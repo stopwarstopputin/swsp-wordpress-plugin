@@ -8,13 +8,11 @@ A WordPress Plugin allowing you to block all visitors from Russia and display a 
 
 Like a lot op people in the world, we were very much shocked when Russia started the war against Ukraine.  
 
-It was also depressing to see how slow western governments were acting to resolve the conflict and agree on sanctions.
+It was also depressing to see how slow western governments were acting to resolve the conflict and agree on sanctions and we felt that there was little we could do until we saw the people in Russia standing up in the streets to protest.
 
-We felt there was little we could do personally until we saw the people in Russia standing up in the streets to protest.
+First there were few protestors, than the numbers increased as Russians realized more and more that Wladmir Putin has become a war criminal ruining the country. 
 
-First it were few, than the numbers increased as Russians realized more and more that Wladmir Putin has become a war criminal ruining the country. 
-
-We believe that the internal pressure from Russians on Putin and the Russian government is the most promising way to end war.
+We bnow elieve that the internal pressure from Russians on Putin and the Russian government is the most promising way to end war.
 
 This can only happen when more and more Russians feels sanctions in everyday life. 
 
