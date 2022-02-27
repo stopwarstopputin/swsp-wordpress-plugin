@@ -40,7 +40,7 @@ Please be aware of the following things before installing the Stop War! Stop Put
 
 The Stop War! Stop Putin! WordPress Plugin was released on February 27th, 2022, just 3 days after Russia invading the Ukraine. 
 
-It is a simplified fork built on the basis of the IP2Location Country Blocker WordPress Plugin (https://de.wordpress.org/Plugins/ip2location-country-blocker/).
+It is a simplified fork built on the basis of the <a href="https://de.wordpress.org/Plugins/ip2location-country-blocker/">IP2Location Country Blocker WordPress Plugin </a>IP2Location Country Blocker WordPress Plugin.
 
 This site or product includes IP2Location LITE data available from <a href="https://lite.ip2location.com">https://lite.ip2location.com</a>.
 
