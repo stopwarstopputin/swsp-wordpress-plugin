@@ -33,7 +33,7 @@ You can choose in the settings if you want your WordPress website to display a 4
 
 Please be aware of the following things before installing the Stop War! Stop Putin! WordPress Plugin:
 
-* The Plugin will run 100% indepently on your Webserver (no 'phoning home', no API connections, no external data collection).
+* The Plugin will run 100% natively on your Webserver (no 'phoning home', no API connections, no external data collection).
 * The Plugin's blocked IP Ranges are limited to Russia aand re stored locally on your webserver (there will be updates for this Plugin when IP ranges change).
 * The Plugin will (obviously) track IP addresses and needs to store blocked IP addresses locally on your webserver (relevant for GDPR compliance in some countries). 
 * The Plugin will not work with most WordPress Caching Plugins (e.g. W3 Total Cache). For the Plugin to work you have to deactivate caching Plugins. 
