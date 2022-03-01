@@ -67,3 +67,7 @@ The included IP2Location LITE data is Copyright (c) 2001-2018 Hexasoft Developme
 Anyone is welcome to contribute to the Stop War! Stop Putin! WordPress Plugin. 
 
 Please [read the guidelines](/CONTRIBUTING.md) for contributing to this repository.
+
+This project is purely idealistic. We are not interested in any kinds of commercial benefits or donations. 
+
+If you want to join rallies against the war in Ukraine or donate to humanitarian organizationswe found https://www.stopputin.net/ a helpful resource.
