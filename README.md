@@ -42,7 +42,7 @@ The Stop War! Stop Putin! WordPress Plugin was released on February 27th, 2022, 
 
 It is a simplified fork built on the basis of the <a href="https://de.wordpress.org/Plugins/ip2location-country-blocker/">IP2Location Country Blocker WordPress Plugin </a>.
 
-The  includes IP2Location LITE data available from <a href="https://lite.ip2location.com">https://lite.ip2location.com</a>.
+The included IP2Location LITE data is available from <a href="https://lite.ip2location.com">https://lite.ip2location.com</a>.
 
 The Stop War! Stop Putin! WordPress is in not authorized, associated with or endorsed by Hexasoft Development Sdn. Bhd.  
 
