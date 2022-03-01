@@ -70,4 +70,4 @@ Please [read the guidelines](/CONTRIBUTING.md) for contributing to this reposito
 
 This project is purely idealistic. We are not interested in any kinds of commercial benefits or donations. 
 
-If you want to join rallies against the war in Ukraine or donate to humanitarian organizationswe found https://www.stopputin.net/ a helpful resource.
+If you want to join rallies against the war in Ukraine or donate to humanitarian organizations, we found https://www.stopputin.net/ a helpful resource.
