@@ -59,7 +59,7 @@ The Stop War! Stop Putin! WordPress Plugin is licensed under the GPL v2 or later
 
 A copy of the license is included in the root of the Plugin’s directory. The file is named `LICENSE`.
 
-The included IP2Location LITE data was compiled by Hexasoft Development Sdn. Bhd. and made available under the CC-BY-SA-4.0 License. We redistribute it with the appropriate acknowledgemt (see Credits / Attribution).
+The included IP2Location LITE data was compiled by Hexasoft Development Sdn. Bhd. and made available under the CC-BY-SA-4.0 License. It is redistributed with the appropriate acknowledgement (see Credits / Attribution).
 
 
 ## Contributions
