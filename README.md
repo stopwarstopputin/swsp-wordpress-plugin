@@ -2,7 +2,7 @@
 
 # Stop War! Stop Putin! WordPress Plugin
 
-A WordPress Plugin allowing you to block all visitors from Russia and display a custom message to stand up against Putin and to stop war.
+The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia and display a custom message to stand up against Putin and to stop war.
 
 
 ## Why did we release a Stop War! Stop Putin! WordPress Plugin?
