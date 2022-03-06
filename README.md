@@ -69,7 +69,7 @@ Anyone is welcome to contribute to the Stop War! Stop Putin! WordPress Plugin.
 Please [read the guidelines](/CONTRIBUTING.md) for contributing to this repository.
 
 
-## Donations and further ways of engaging
+## Donations and further ways of engagement
 
 This project is purely idealistic and we hope to make a contribution to peace. We are not interested in any kinds of commercial benefits or donations. 
 
