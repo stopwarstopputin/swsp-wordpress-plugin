@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Stop War! Stop Putin!
- * Plugin URI: https://github.com/stopwarstopputin/
+ * Plugin URI: https://github.com/stopwarstopputin/swsp-wordpress-plugin
  * Description: The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia &amp; Belarus and display a custom message to stand up against Putin and to stop war.
  * Version: 1.0
  * Author: stopwarstopputin
