@@ -1,0 +1,36 @@
+.dashicons-admin-stopwarstopputin {
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIyLjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkViZW5lXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxNzg4LjYgMTc4OC42IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNzg4LjYgMTc4OC42OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDEyODAuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIj4KCTxwYXRoIGQ9Ik0xNDAwMS40LTEwODguNmMzMS4xLDU2LjYsMzQuNiw2OC42LDEwNS40LDQyNWMyODMuNSwxNDEzLjUsMjkyLjcsMjQyNS40LDI5LjcsMzI0NS42CgkJYy0xOTAuMiw1OTEuOC01NDUuOSwxMTIwLjEtMTA4My4zLDE2MDYuNWMtNDkyLjEsNDQ1LjUtMTAyNy40LDgyOC0yMjY2LjMsMTYyMGMtNDk1LjcsMzE2LjEtODgzLjIsNTM1LjMtMTQxMCw3OTYuMgoJCWMtMTQwLjcsNjguNi0yNjkuNCwxMzIuMi0yODUuNywxNDEuNGwtMjkuNywxNC4xbC0xMi43LDEwNDYuNWwtMTIsMTA0NS44TDgyNDMuNCw5NjQ2bC03OTMuNCw3OTQuOGwtNTcxLjMtNTcxLjNsLTU3MC42LTU3MC42CgkJbC05NC01NzQuOWwtOTQtNTc0LjlsLTI2OS40LTI2OS40bC0yNjkuNC0yNjkuNGwtMTg2LDE5NS45bC0xODYsMTk1LjlMNTAzNS4zLDc4MjhMNDg2Miw3NjU0LjhsMTkwLjktMTkwLjlsMTkwLjktMTkwLjlsLTI5Ny0yOTcKCQlsLTI5Ni4zLTI5Ni4zbC01NzQuOS05NGwtNTc0LjktOTRsLTU3MS4zLTU3MS4zbC01NzAuNi01NzAuNmw3OTQuOC03OTMuNGw3OTMuNC03OTMuNGw5NzIuMy0xMC42CgkJYzUzNC42LTUuNywxMDQwLjktMTIuNywxMTI1LjctMTUuNmwxNTMuNC00LjlsMTY0LjgtMzA2LjJjMzY3LjctNjgzLjEsNzY3LjktMTM4NS45LDExNTQuNy0yMDMxLjUKCQlDODA2NS4yLDQ4My4zLDg0NDEuNC0yNS44LDg4NzctNDQzYzE5OS40LTE4OS41LDI3Ni41LTI1NS4zLDQ2MS43LTM4OC4yYzk0NS40LTY3Ni43LDIxNTMuOC04NTEuNCwzODYxLjUtNTU5LjMKCQljMjY0LjUsNDUuMyw1NzQuMiwxMTEuNyw2MTkuNCwxMzIuOUMxMzg4MC41LTEyMjkuMywxMzk2Ny40LTExNDgsMTQwMDEuNC0xMDg4LjZ6Ii8+CjwvZz4KPHBhdGggZD0iTTg5NC4zLDBDNDAwLjQsMCwwLDQwMC40LDAsODk0LjNzNDAwLjQsODk0LjMsODk0LjMsODk0LjNzODk0LjMtNDAwLjQsODk0LjMtODk0LjNTMTM4OC4yLDAsODk0LjMsMHogTTg5NC4zLDE2ODQuNwoJYy00MzYuNiwwLTc5MC41LTM1My45LTc5MC41LTc5MC41czM1My45LTc5MC41LDc5MC41LTc5MC41czc5MC41LDM1My45LDc5MC41LDc5MC41UzEzMzAuOCwxNjg0LjcsODk0LjMsMTY4NC43eiIvPgo8cmVjdCB4PSIzMi44IiB5PSI4NDMiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA3OCAtMC43MDY0IDAuNzA2NCAwLjcwNzggLTM2OS42NzQ3IDg5Mi41NDM4KSIgd2lkdGg9IjE3MjIuNSIgaGVpZ2h0PSIxMDAuMiIvPgo8L3N2Zz4K");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 20px 20px;
+}
+
+.ip2location-modal{display:none;position:fixed;z-index:1;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,0.4)}
+.ip2location-modal-content{background-color:#fefefe;margin:auto;padding:20px;border:1px solid #888;width:50%}
+.ip2location-close{color:#aaa;float:right;font-size:28px;font-weight:700}
+.ip2location-close:hover,.ip2location-close:focus{color:#000;text-decoration:none;cursor:pointer}
+
+.text-danger{color:#cc0000}
+.line{display:block;border-top:1px solid #6162AC;margin-top:-2.8em;margin-bottom:50px}
+
+.iplcb-panel {
+    border: 1px solid #888;
+    border-radius:4px;
+    padding:15px;
+    background-color:#fefefe
+}
+
+.dashicons.spin {
+    animation: dashicons-spin 1s infinite;
+    animation-timing-function: linear
+}
+
+@keyframes dashicons-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
