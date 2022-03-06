@@ -2,7 +2,7 @@
 
 # Stop War! Stop Putin! WordPress Plugin
 
-The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia and display a custom message to stand up against Putin and to stop war.
+The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.
 
 
 ## Why did we release a Stop War! Stop Putin! WordPress Plugin?
@@ -15,14 +15,14 @@ We now believe that the internal pressure from Russians on Putin and the Russian
 
 This can only happen when more and more Russians feel sanctions in everyday life and start to stand up. 
 
-That's why we created the Stop War! Stop Putin! WordPress Plugin which allows everyone who runs a WordPress blog to impose sanctions on Russia by blocking Visitors with Russian IP addresses from the content and thus fuel the protests.
+That's why we created the Stop War! Stop Putin! WordPress Plugin which allows everyone who runs a WordPress blog to block visitors from Russia & Belarus (based on IP addresses) from the content and thus fuel the protests.
 
 
 ## What does the Stop War! Stop Putin! WordPress Plugin do?
 
 When you have installed and activated the Stop War! Stop Putin! WordPress Plugin on your WordPress blog, it will allow you to block all visitors coming from IP Addresses associated with the Russian Federation denying access to your website's regular content. 
 
-You can choose in the settings if you want your WordPress website to display a 403 error, redirect to another URL or show a specific, customizable WordPress page to explain why you sanction the access and to encourage your Russian visitors to take actions.  
+You can choose in the settings if you want your WordPress website to display a 403 error, redirect to another URL or show a specific, customizable WordPress page to explain why you sanction the access and to encourage your visitors from Russian & Belarus to take actions.  
 
 
 ## Important Notes
@@ -30,15 +30,15 @@ You can choose in the settings if you want your WordPress website to display a 4
 Please be aware of the following things before installing the Stop War! Stop Putin! WordPress Plugin:
 
 * runs 100% natively on your Webserver (no 'phoning home', no API connections, no external data collection)
-* works with an integrated database of IP Ranges which are stored locally on your webserver (there will be updates for this Plugin when IP ranges change)
+* works with an integrated database of IP Ranges for Russia & Belarus which are stored locally on your webserver (there will be updates for this Plugin when IP ranges change)
 * stores blocked IP addresses of visitors temporarily on your webserver (relevant for GDPR compliance in some countries)
-* will not work with most WordPress Caching Plugins (e.g. W3 Total Cache). For the Plugin to work you have to deactivate caching Plugins 
+* will not work with most WordPress Caching Plugins (e.g. W3 Total Cache) - for the Plugin to work you have to deactivate all caching Plugins! 
 * will not block Google bots and thus will not negatively affect your SEO Results
 
 
 ## Credits / Attribution
 
-The Stop War! Stop Putin! WordPress Plugin was released on February 27th, 2022, just 3 days after Russia invading the Ukraine. 
+The Stop War! Stop Putin! WordPress Plugin was released shortly after Russia invading the Ukraine. 
 
 It is a simplified fork built on the basis of the <a href="https://de.wordpress.org/Plugins/ip2location-country-blocker/">IP2Location Country Blocker WordPress Plugin</a>.
 
@@ -71,6 +71,6 @@ Please [read the guidelines](/CONTRIBUTING.md) for contributing to this reposito
 
 ## Donations and further ways of engaging
 
-This project is purely idealistic. We are not interested in any kinds of commercial benefits or donations. 
+This project is purely idealistic and we hope to make a contribution to peace. We are not interested in any kinds of commercial benefits or donations. 
 
 If you want to join rallies against the war in Ukraine or donate to humanitarian organizations, we found https://www.stopputin.net/ a credible and helpful resource.
