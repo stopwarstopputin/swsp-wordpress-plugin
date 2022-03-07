@@ -44,7 +44,7 @@ It is a simplified fork built on the basis of the <a href="https://de.wordpress.
 
 The included IP2Location LITE data is available from <a href="https://lite.ip2location.com">https://lite.ip2location.com</a>.
 
-The Stop War! Stop Putin! WordPress is in not authorized, associated with or endorsed by Hexasoft Development Sdn. Bhd.  
+The Stop War! Stop Putin! WordPress Plugin is in not authorized, associated with or endorsed by Hexasoft Development Sdn. Bhd.  
 
 
 ## License
