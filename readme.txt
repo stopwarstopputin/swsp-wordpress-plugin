@@ -6,6 +6,9 @@ Tags: block, ban, geolocation, blocking, ip-address, ip, ukraine, russia, visito
 Requires at least: 2.0
 Tested up to: 5.9.1
 Stable tag: 1.0
+Requires PHP: 5.4
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.
 
