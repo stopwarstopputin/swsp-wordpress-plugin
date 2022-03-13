@@ -5,7 +5,7 @@ Donate link: https://github.com/stopwarstopputin
 Tags: block, ban, geolocation, blocking, ip-address, ip, ukraine, russia, visitors, ipaddresses, sanctions, putin, ipranges, banning, ukraine-invasion, belarus 
 Requires at least: 2.0
 Tested up to: 5.9.1
-Stable tag: 1.0
+Stable tag: :1.0
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -26,8 +26,6 @@ Key Features
 * Provides you with a statistical report of blocked traffic.
 * Puts you fully in charge and works 100% local on your Webserver, no "phoning home", no API accesses etc.
 * Has the required database of IP Ranges for Russian Federation & Belarus built in.
-
-Please note: This site or product includes IP2Location LITE data available from http://www.ip2location.com. Th
 
 Credits/Attribution: The Stop War! Stop Putin! WordPress Plugin is a simplified fork built on the basis of the IP2Location Country Blocker WordPress Plugin. This product includes IP2Location LITE data available from https://lite.ip2location.com. The included IP2Location LITE data was compiled by Hexasoft Development Sdn. Bhd. and made available under the CC-BY-SA-4.0 License. This WordPress Plugin is in not authorized, associated with or endorsed by Hexasoft Development Sdn. Bhd.
 
